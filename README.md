@@ -1,4 +1,4 @@
 - 👋 Hello world! I’m @kodditor. Full-Stack Engineer
-- 👨🏾‍💻 I primarily use Typescript, React, NestJS, NextJS, Prisma, PostgreSQL and MongoDB.
+- 👨🏾‍💻 I primarily use Typescript, React, Golang, PostgreSQL and MongoDB.
 - 🚀 I'm a Meta-certified backend developer. Considering certification for frontend?
 - 🤝 I wanna build great platforms that solve real-life problems and craft robust system architecture!
